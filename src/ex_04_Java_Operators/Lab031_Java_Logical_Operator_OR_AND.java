@@ -1,4 +1,4 @@
-package ex04_Java_Operators;
+package ex_04_Java_Operators;
 
 public class Lab031_Java_Logical_Operator_OR_AND {
 

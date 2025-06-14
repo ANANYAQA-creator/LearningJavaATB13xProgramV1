@@ -1,6 +1,6 @@
-package ex04_Java_Operators;
+package ex_04_Java_Operators;
 
-public class Lab_027_Java_Logical_Operators {
+public class Lab027_Java_Logical_Operators {
     public static void main(String[] args) {
 
         /* Logical Operators  ;- refer diagram

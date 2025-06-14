@@ -1,4 +1,4 @@
-package ex04_Java_Operators;
+package ex_04_Java_Operators;
 
 public class Lab024_Java_Unary_Operator {
     public static void main(String[] args) {
