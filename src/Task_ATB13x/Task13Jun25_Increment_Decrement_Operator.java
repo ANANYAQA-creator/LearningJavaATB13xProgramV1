@@ -1,6 +1,6 @@
-package ex_07_Command_Line_Input_UserInput;
+package Task_ATB13x;
 
-public class Lab_Task13Jun {
+public class Task13Jun25_Increment_Decrement_Operator {
     public static void main(String[] args) {
 
   /* 🔹 Program 1:

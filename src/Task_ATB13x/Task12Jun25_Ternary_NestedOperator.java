@@ -1,6 +1,6 @@
-package ex_06_Java_Ternary_Operator;
+package Task_ATB13x;
 
-public class Lab045_Task12Jun25_Ternary_NestedOperator {
+public class Task12Jun25_Ternary_NestedOperator {
 
     public static void main(String[] args) {
       //  1 TERNARY OPERATOR PROGRAMS

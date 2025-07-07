@@ -1,8 +1,8 @@
-package ex_09_Switch_Statement;
+package Task_ATB13x;
 
 import java.util.Scanner;
 
-public class Task16thJune_if_else {
+public class Task16June25_if_else {
     public static void main(String[] args) {
 
         /*
