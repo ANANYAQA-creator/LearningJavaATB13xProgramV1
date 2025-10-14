@@ -18,17 +18,17 @@ public class Lab059_Real_Switch_Automation_example {
 
             case "chrome" :
                 System.out.println("1. Navigate to the chrome browser");
-                System.out.println("2. TC1 then TC2 will execute");
+                System.out.println("2. TC1_SI_ex then TC2 will execute");
                 break;
 
             case "Edge" :
                 System.out.println("1. Navigate to the Edge browser");
-                System.out.println("2. TC1 then TC2 will execute");
+                System.out.println("2. TC1_SI_ex then TC2 will execute");
                 break;
 
             case "Firefox" :
                 System.out.println("1. Navigate to the Firefox browser");
-                System.out.println("2. TC1 then TC2 will execute");
+                System.out.println("2. TC1_SI_ex then TC2 will execute");
                 break;
 
             case "Opera" :

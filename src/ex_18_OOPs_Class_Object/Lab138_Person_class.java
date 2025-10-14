@@ -1,4 +1,4 @@
-package ex_18_OOPs;
+package ex_18_OOPs_Class_Object;
 
 public class Lab138_Person_class {
     // These are called Properties.Attributes,Member variable,instance variable,

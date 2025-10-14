@@ -7,6 +7,8 @@ public class Lab038_Java_Narrowing_Implicit_Explicit {
 
         // Narrowing = Convert a value from large datatype to small datatype
 
+        double d = 500.600;
+        //int a = (int) d;
         int a = 300;
         // byte b = a;   // Narrowing :- Implicit casting is not allowed in the narrowing.
         byte b1= (byte)a; // Narrowing :- Explicit casting is allowed in the narrowing.

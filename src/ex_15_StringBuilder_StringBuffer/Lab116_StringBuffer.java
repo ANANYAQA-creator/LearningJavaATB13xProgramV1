@@ -6,7 +6,7 @@ public class Lab116_StringBuffer {
         StringBuffer sb = new StringBuffer("Java");
         sb.append(" Programming");
         System.out.println(sb);  //JavaProgramming
-        sb.delete(5,16); // Java
+        sb.delete(5,14); // Java
         System.out.println(sb);
         sb.replace(0,4,"C++");
         System.out.println(sb);  //C++

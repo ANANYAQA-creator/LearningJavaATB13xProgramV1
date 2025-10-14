@@ -1,4 +1,4 @@
-package ex_18_OOPs;
+package ex_18_OOPs_Class_Object;
 
 public class Lab142_OOPs3 {
 
