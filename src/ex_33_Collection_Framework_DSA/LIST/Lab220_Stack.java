@@ -2,7 +2,7 @@ package ex_33_Collection_Framework_DSA.LIST;
 
 import java.util.Stack;
 
-public class Lab_220_Stack {
+public class Lab220_Stack {
     public static void main(String[] args) {
 
         Stack stack = new Stack<>();
