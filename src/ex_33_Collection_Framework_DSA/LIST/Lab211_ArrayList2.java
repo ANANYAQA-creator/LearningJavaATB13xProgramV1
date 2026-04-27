@@ -7,7 +7,6 @@ public class Lab211_ArrayList2 {
     public static void main(String[] args) {
 
         List l = new ArrayList();
-
         List l1 = new ArrayList(10);
 
         l1.add(1) ;//0 index

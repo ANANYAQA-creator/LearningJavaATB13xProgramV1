@@ -8,7 +8,7 @@ import java.util.List;
 public class Lab214_LinkedList3 {
     public static void main(String[] args) {
 
-        List l = new ArrayList(); // Array List - continous format
+        List l = new ArrayList(); // Array List - Continuous Memory format
 
         List l1 = new LinkedList();  // Linked List - Doubly Linked List[Random Memory]
 
